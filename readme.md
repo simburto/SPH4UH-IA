@@ -1,4 +1,5 @@
-[![Nightly Build](https://github.com/CrossTheRoadElec/Phoenix6-Linux-Example/actions/workflows/nightly-build.yml/badge.svg)](https://github.com/CrossTheRoadElec/Phoenix6-Linux-Example/actions/workflows/nightly-build.yml)
+# important
+This code is based off of the CTRE Phoenix 6 example with help from [<img alt="AaronPinto" src="https://github.com/AaronPinto.png?size=120" width="120px"/>](https://github.com/AaronPinto)
 
 # Requirements
 
