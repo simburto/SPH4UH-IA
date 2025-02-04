@@ -1,0 +1,3 @@
+/home/simburto/Downloads/Phoenix6-Linux-Example-main/build/CMakeFiles/Phoenix6-Example.dir
+/home/simburto/Downloads/Phoenix6-Linux-Example-main/build/CMakeFiles/edit_cache.dir
+/home/simburto/Downloads/Phoenix6-Linux-Example-main/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++17 "CMakeFiles/Phoenix6-Example.dir/main.cpp.o" "CMakeFiles/Phoenix6-Example.dir/RobotBase.cpp.o" "CMakeFiles/Phoenix6-Example.dir/Joystick.cpp.o" -o Phoenix6-Example   -L/usr/lib/phoenix6  -Wl,-rpath,/usr/lib/phoenix6 /usr/lib/x86_64-linux-gnu/libSDL2.so -lCTRE_Phoenix6 -lCTRE_PhoenixTools 
